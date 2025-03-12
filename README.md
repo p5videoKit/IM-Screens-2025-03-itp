@@ -102,11 +102,15 @@ Begining in 2024 we will also use:
 - Participation and Attendance 30%
 - Final Project 40%
 
-### ima-class-attendance-policy
+### itp-ima-class-attendance-policy
 
-- [ima-class-attendance-policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
+- email me as soon as possible if you can not attend due to illness or other emergency
+- [itp-ima-class-attendance-policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
 
-...At most two unexcused absences while you are enrolled in the course will be tolerated without effect to your grade...
+```
+  "...At most two unexcused absences while you are enrolled in the course will be tolerated without effect to your grade..."
+  2 unit – 7 week classes that meet once a week: 1 absences
+```
 
 ## STATEMENT OF ACADEMIC INTEGRITY
 
