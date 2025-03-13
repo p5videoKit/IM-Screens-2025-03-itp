@@ -51,11 +51,11 @@ thereby collaborating on real time creation of “digital graffiti”.
 
 ## Syllabus Overview
 
-- [Week 1 ](weeks/01_intro.md) Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit | p5moLibrary | p5moExamples | p5mirror
+- [Week 1 ](weeks/01_intro.md) Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit
 
-- [Week 2 ](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Using p5VideoKit | p5moLibrary | p5moExamples | p5mirror.
+- [Week 2 ](weeks/02_code.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Using p5VideoKit | p5mirror
 
-- [Week 3 ](weeks/03_time.md) Time as input
+- [Week 3 ](weeks/03_time.md) Time as input | Using ml5js | p5moLib | moLib | moSalon
 
 - [Week 4 ](weeks/04_video.md) Pixel manipulation: raw buffers pixels and GLSL shaders. p5VideoKit effects and plugins.
 
