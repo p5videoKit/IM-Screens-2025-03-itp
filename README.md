@@ -1,4 +1,4 @@
-# [IM-Screens-2024-03-itp](https://github.com/p5videoKit/IM-Screens-2025-03-itp)
+# [IM-Screens-2025-03-itp](https://github.com/p5videoKit/IM-Screens-2025-03-itp)
 
 ## Course Description
 
@@ -9,16 +9,13 @@ in our hands, on our desktops, on walls and public installations.
 
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
-Using the recently developed p5videoKit we will create standalone installations.
-[p5videoKit](https://github.com/molab-itp/p5videoKit) is a new library of live video effects - building on p5js -
+Using p5videoKit we will create standalone installations.
+[p5videoKit](https://github.com/molab-itp/p5videoKit) is a library of live video effects - building on p5js -
 presented as a dashboard for mixing video in the browser.
 This library allows the user to apply visual effects to live video
 from connected cameras and sensors or streaming from devices on the internet.
 p5VideoKit is open source and can be extended with the user’s p5js code for
-a plethora of visual effects and interactivity. One possible application of p5Videokit
-would be a public facing installation allowing anonymous people on the street
-to use their hand held devices to interact with large street facing screens,
-thereby collaborating on real time creation of “digital graffiti”.
+a plethora of visual effects and interactivity.
 
 Building on ICM, students will learn how to adapt simple sketches
 into components of p5VideoKit so that algorithms can be
@@ -29,16 +26,24 @@ and remotely configure dedicated computers with long running installations.
 Several dedicated computers and screens will be available to preview installations
 on the floor and street facing areas of the 370 Jay Street campus.
 
-Begining in 2024 we will also use:
+One possible application of p5Videokit
+would be a public facing installation allowing anonymous people on the street
+to use their hand held devices to interact with large street facing screens,
+thereby collaborating on real time creation of “digital graffiti”.
 
+# Other resources
+
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git rep
+- [moLib](https://github.com/molab-itp/moLib)
+  - interactive multi-screen experiences on handheld and large screens
+  - with or without p5js!
+- [moSalon](https://github.com/molab-itp/moSalon)
+  - examples for moLib
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
-
   - a p5js Library for cloud storage enhanced multi-device experiences
-
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
-- [p5mirror](https://github.com/molab-itp/p5mirror)
-  - mirror your editor.p5js sketches into a git repo
 
 ## Prerequisites
 
@@ -102,7 +107,7 @@ Begining in 2024 we will also use:
 - Participation and Attendance 30%
 - Final Project 40%
 
-### itp-ima-class-attendance-policy
+### Attendance
 
 - email me as soon as possible if you can not attend due to illness or other emergency
 - [itp-ima-class-attendance-policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
@@ -115,6 +120,8 @@ Begining in 2024 we will also use:
 ## STATEMENT OF ACADEMIC INTEGRITY
 
 Plagiarism is presenting someone else’s work as though it were your own -- More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
+
+- [generative-tools](https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-tools/frequently-asked-questions.html)
 
 ## STATEMENT OF PRINCIPLE
 
