@@ -46,6 +46,13 @@
 
 ## Class Resources
 
+### p5js libraries
+
+- [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
+- [ml5js](https://ml5js.org/)
+- [p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
+- [p5js-shaders](https://itp-xstory.github.io/p5js-shaders/#/)
+
 ### p5VideoKit
 
 - open source project - collaborators invited
@@ -53,7 +60,7 @@
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - a dashboard for mixing video in the browser.
 
-### p5mirror
+<!-- ### p5mirror
 
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
@@ -72,13 +79,7 @@
   - a p5js Library for cloud storage enhanced multi-device experiences
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
-
-### Other libraries
-
-- [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
-- [ml5js](https://ml5js.org/)
-- [p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
-- [p5js-shaders](https://itp-xstory.github.io/p5js-shaders/#/)
+ -->
 
 ## Required Tools
 
@@ -109,6 +110,11 @@
 ## Class Exercise
 
 - download and run p5js script in VS Code
+
+- create github repo for class
+
+  - name _ims-2025-yourNickName_ to help me keep track
+  - add jht9629-nyu as collaborator
 
 - pre-flight homework link
 
