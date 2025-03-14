@@ -90,6 +90,9 @@
   -- download to Applications folder
 - [nodejs](https://nodejs.org/en/download)
   -- install, needed by p5mirror bash scripts
+
+### VS Code Extensions
+
 - [p5-vscode - VSCode extension ](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode)
 - [prettier-vscode - VSCode extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
