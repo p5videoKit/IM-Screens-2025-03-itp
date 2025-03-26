@@ -6,6 +6,13 @@
 
 ```
 
+// https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
+// video scan radial v7
+  secsDelta += deltaTime / 1000;
+
+// https://editor.p5js.org/jht9629-nyu/sketches/2bjn_Nn9x
+// video scan radial v8
+
 // https://editor.p5js.org/jht9629-nyu/sketches/3VKJ-q8ar
 // ims03-jht scrolling color bars
 // color pops on at wrap around - no rate regulation
@@ -21,9 +28,6 @@
   let deltaSecs = deltaTime / 1000
   my.xstep = width * deltaSecs / my.scrollSeconds;
 
-// https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
-// video scan radial v7
-  secsDelta += deltaTime / 1000;
 
 // https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
 // MazeSpin liberation screens v2
