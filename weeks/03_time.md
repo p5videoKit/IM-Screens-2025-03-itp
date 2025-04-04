@@ -2,6 +2,12 @@
 
 ## [[Previous](./02_code.md)] [[Next](./04_video.md)]
 
+## ims-2025-jht-nyu
+
+- clone and review
+
+# [ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu.git)
+
 ## Using Time
 
 ```
@@ -28,22 +34,27 @@
   let deltaSecs = deltaTime / 1000
   my.xstep = width * deltaSecs / my.scrollSeconds;
 
-
 // https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
 // MazeSpin liberation screens v2
   let now = millis() / 1000;
-
 
 ```
 
 ## saving data locally
 
-Must locally or in web browser to use url parameters
+Must run locally or in web browser to use url parameters
 
 - url param strings
 - localStorage
 
 ```
+
+// https://editor.p5js.org/jht9629-nyu/sketches/I9vT_uniR
+// get_url_params v2
+
+// https://editor.p5js.org/jht9629-nyu/sketches/qz9-Y-Sc4
+// localStorage v1
+
 // https://editor.p5js.org/jht9629-nyu/sketches/TQyVoswjQ
 // p5moLibrary DrawPoints
 // https://molab-itp.github.io/p5moLibrary/src/demo/DrawPoints/?v=65
@@ -52,8 +63,6 @@ Must locally or in web browser to use url parameters
 // p5moLibrary Astronomical 47
 // https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
 
-// https://editor.p5js.org/jht9629-nyu/sketches/5fTCCJ_Sh
-// get_url_params demo
 
 ```
 
@@ -61,15 +70,37 @@ Must locally or in web browser to use url parameters
 
 ## Class Exercise
 
+### create repo for the class
+
+- create a repo for the class
+  -- name repo ims-2025-yourNickName
+- make jht9629-nyu a collaborator
+- add link to your repo to your wiki page
+
+### update your class repo
+
+- put homework sketch in your github repo for this class
 - github pages setup
+- add and test sketch get_url_params
+- add and test sketch localStorage
+
+### update your p5mirror repo
+
+- run and commit your p5mirror repo
 
 ## Homework Week03
 
-- Expand your full screen p5js screen or write/find a new one to use configuration data
+- Expand your full screen p5js screen or create a new one to that:
+
+  - uses url parameters to control the appearance of your sketch
+  - or makes us of some data to drive the visual
+  - in addition to another source of input such as camera/mic/ml5js
+  - consider accommodation of landscape and portrait screen orientation
 
   - make the p5js sketch available via your github repo as github pages
 
-- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-itp/wiki#week-03-homework)
+  - also make the p5js sketch available via your github repo as github pages
+  - be sure to include all atributions (eg. links to source sketch, ai chat prompts, etc.)
 
 - enter any questions or notes on your wiki page
 
