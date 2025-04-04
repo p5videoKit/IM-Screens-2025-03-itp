@@ -4,9 +4,9 @@
 
 ## ims-2025-jht-nyu
 
-- clone and review
+- clone ims-2025-jht-nyu for review
 
-# [ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu.git)
+- [ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu.git)
 
 ## Using Time
 
