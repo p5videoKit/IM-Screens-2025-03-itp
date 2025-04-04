@@ -97,7 +97,7 @@ Must run locally or in web browser to use url parameters
   - in addition to another source of input such as camera/mic/ml5js
   - consider accommodation of landscape and portrait screen orientation
 
-  - make the p5js sketch available via your github repo as github pages
+- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-03-homework)
 
   - also make the p5js sketch available via your github repo as github pages
   - be sure to include all atributions (eg. links to source sketch, ai chat prompts, etc.)
