@@ -2,25 +2,82 @@
 
 ## [[Previous](./04_video.md)] [[Next](./06_review.md)]
 
+## Final Project proposal report
+
+- status of your final project
+
 ## p5mirror check
 
 - [run your p5mirror fork update](https://github.com/molab-itp/p5mirror/forks?include=active%2Cnetwork&page=1&period=2y&sort_by=last_updated)
 
-  - [https://github.com/leey611](https://github.com/leey611/p5mirror-leey611)
-  <!-- - [github.com/karakkzzk](https://github.com/karakkzzk/p5mirror-karakkzzk)
-  - [github.com/paulineium](https://github.com/paulineium/p5mirror-pk2196)
-  - [github.com/jiaying0412](https://github.com/jiaying0412/p5mirror---jiaying0822)
-  - [github.com/chloegg](https://github.com/chloegg/p5mirror---kg3171)
-  - [github.com/CodingKitty26](https://github.com/CodingKitty26/p5mirror-imf5487)
-  - [github.com/anneliselee](https://github.com/Anneliselee/p5mirror-Anneliselee) -->
+## What's new
 
-  - who is missing?
+- [ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu)
 
-## Firebase check
+### lib videoKit v1
 
-- does your access work?
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/CAtSXsCDI
+// lib videoKit v1
+// eff_simplix.js is use to mix live video with another effect
+```
 
-## maze bits evolution
+### Transience omi v1
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/P_fljj9ev
+// Transience omi v1
+// createGraphics use to scale video
+// to full screen with correct aspect ratio
+
+// https://omibahuguna.github.io/ims-2025-omi/Transience/
+```
+
+### multi-video key start v7
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/nDXZJsqoY
+// multi-video key start v7
+// preload vs. completion call back
+
+// keys to start/stop video 1,2 | 3,4 | 5,6 | 7,8 | 9,0 | -,=
+// 6 videos are layout in top quarter of canvas
+// space key OR mouse press to show next 1 of 12 videos
+// video is displayed centered in the window
+// console.log must be used sparingly, affects performance
+```
+
+## moSalon
+
+interactive multi-screen experiences on handheld and large screens
+
+- [comments](https://molab-itp.github.io/moSalon/src/comments/?v=50)
+- [photo-booth](https://molab-itp.github.io/moSalon/src/photo-booth/?v=50)
+
+- [moSalon github](https://github.com/molab-itp/moSalon)
+
+  - open firebase console
+  - try photobooth
+
+- [let-america-be](https://github.com/jht9629-nyu/let-america-be.git)
+  - enter try small vs. big screen responsive design
+
+## Homework Week05
+
+- work on your final project
+- update your wiki page weekly with
+
+  - class feedback
+  - progress | problems| plans | questions
+
+- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-itp/wiki#week-05-homework)
+
+## Resources
+
+- [vite-p5-devo](https://github.com/p5videoKit/vite-p5-devo)
+  - using bundler to create app for distribution
+
+<!-- ## maze bits evolution
 
 ```
 // evolving from previous maze tile bits example
@@ -34,9 +91,18 @@
 // https://jht9629-nyu.github.io/my-p5js-repo-2023/p5-projects/maze_tiles_bits/
 // State machine for time based-animation
 // https://github.com/jht9629-nyu/my-p5js-repo-2023/tree/main/p5-projects/maze_tiles_bits
-```
+``` -->
 
-## p5VideoKit
+  <!-- - [https://github.com/leey611](https://github.com/leey611/p5mirror-leey611)
+
+  - who is missing? -->
+
+<!-- ## Firebase check
+
+- does your access work?
+ -->
+
+<!-- ## p5VideoKit
 
 https://github.com/molab-itp/p5videoKit
 
@@ -49,9 +115,9 @@ https://github.com/molab-itp/p5videoKit
 - [3d-shader-using-webcam.html](https://p5js.org/examples/3d-shader-using-webcam.html)
 
 - maze bits as effects plugin
-- [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json)
+- [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json) -->
 
-## skin-tone update
+<!-- ## skin-tone update
 
 - [skin-tone-main-qr update](https://jht1493.net/p5VideoKit/demo/index.html?u=8&d=settings/skin-tone-main-qr.json)
   - [last week failure](https://github.com/ml5js/ml5-library/issues/1483)
@@ -61,21 +127,7 @@ https://github.com/molab-itp/p5videoKit
 ```
 # record video and save to Documents/projects/p5VideoKit-gallery-yoyo
 bin/run-gallery-yoyo.sh
-```
-
-## Final Project proposal report
-
-- status of your final project
-
-## Homework Week05
-
-- work on your final project
-- update your wiki page weekly with
-
-  - class feedback
-  - progress | problems| plans | questions
-
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-itp/wiki#week-05-homework)
+``` -->
 
 <!--
 ## nodejs setup
