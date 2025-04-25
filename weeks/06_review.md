@@ -17,3 +17,7 @@
 ## What's new
 
 - [ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu)
+
+## p5mirror check
+
+- [run your p5mirror fork update](https://github.com/molab-itp/p5mirror/forks?include=active%2Cnetwork&page=1&period=2y&sort_by=last_updated)
